@@ -51,7 +51,7 @@
 
 *tag_run
 
-[bg storage=run.jpg time=500]
+[bg storage=nohara.jpg time=500]
 
 [cm]
 うさぎは黒い風のように走った。[l][r]
@@ -72,6 +72,7 @@
 [cm]
 
 *tag_sleep
+[cm]
 うさぎは一生負け犬、いや、負け兎のままその生涯を終えた。[l][r]
 
 【 BAD END 】[l][cm]
@@ -96,7 +97,7 @@
 [r]
 ぐんぐんと亀との差が開く
 [r]
-うさぎは…
+うさぎは…[r]
 
 
 
