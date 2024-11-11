@@ -77,6 +77,8 @@
 
 【 BAD END 】[l][cm]
 
+[jump target=*start]
+
 
 *tag_tre
 [cm]
